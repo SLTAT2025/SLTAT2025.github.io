@@ -1,6 +1,8 @@
 # SLTAT 2025: Call for papers
 
-## Eighth International Workshop on Sign Language Translation and Avatar Technology
+SLTAT 2025 Home page: <a href="https://sltat2025.github.io">https://sltat2025.github.io</a>
+
+## 9th International Workshop on Sign Language Translation and Avatar Technology
 
 Recent research in the use of avatars to animate sign language promises to provide increased accessibility for deaf people. In addition, avatars support sign linguistics research, providing a potential target for translation from spoken and other sign languages, and scan light on human factors of sign language usage.
 
@@ -8,7 +10,6 @@ Submissions are invited for a full-day workshop that aims to bring together rese
 
 The workshop will take place within the Intelligent Virtual Agents IVA2025 (<a href="https://iva.acm.org/2025/" target="_new">https://iva.acm.org/2025/</a>) conference at the HTW campus (directly at the river Spree) in Berlin, Germany.
 
-SLTAT 2025 Home page: https://sltat2025.github.io
 
 ## Dates
 
@@ -52,4 +53,4 @@ Authors are encouraged to suggest the presentation format best suited to communi
 
 ## Publication of Workshop Papers
 
-The accepted workshop papers will be published via ACM as IVA 25 Adjunct Proceedings. Please note that the camera-ready workshop papers will be processed via the IVA 25 EasyChair and should be prepared in the “ACM Standard” format, more specifically the “SigConf” format (see instructions for the IVA full papers: <a herf="https://iva.acm.org/2025/call-for-papers/" target="_new">https://iva.acm.org/2025/call-for-papers/</a>.
+The accepted workshop papers will be published via ACM as IVA 25 Adjunct Proceedings. Please note that the camera-ready workshop papers will be processed via the IVA 25 EasyChair and should be prepared in the “ACM Standard” format, more specifically the “SigConf” format (see instructions for the IVA full papers: <a href="https://iva.acm.org/2025/call-for-papers/" target="_new">https://iva.acm.org/2025/call-for-papers/</a>
