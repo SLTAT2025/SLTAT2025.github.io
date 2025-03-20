@@ -34,7 +34,7 @@ Deaf participants who prefer to bring interpreters for their national sign langu
 
 ### Travel and Accommodations
 
-Please see the main IVA 2025 venue information [https://iva.acm.org/2025/](https://iva.acm.org/2025/venue/).
+Please see the main IVA 2025 venue information (<a href="https://iva.acm.org/2025/venue/" target="_new">https://iva.acm.org/2025/venue/</a>).
 
 
 ## Instruction for Authors
