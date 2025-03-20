@@ -4,7 +4,7 @@ Recent research in the use of avatars to animate sign language promises to provi
 
 Submissions are invited for a full-day workshop that aims to bring together researchers who work with sign language translation with those who develop sign language avatar technologies.
 
-The workshop will take place within the Intelligent Virtual Agents [IVA2025](https://iva.acm.org/2025/) conference at the HTW campus (directly at the river Spree) in Berlin, Germany.
+The workshop will take place within the Intelligent Virtual Agents <a href="https://iva.acm.org/2025/" target="_new">IVA2025 (https://iva.acm.org/2025/)</a> conference at the HTW campus (directly at the river Spree) in Berlin, Germany.
 
 The accepted workshop papers will be published via ACM as IVA 25 Adjunct Proceedings.
 
@@ -14,9 +14,9 @@ See the [SLTAT 2025 Call for Papers](SLTAT2025-CFP.md) for details.
 
 ## Dates
 
-* Submission deadline: 15 May 2025
-* Notification of acceptance: 15 June 2025
-* Camera ready: 28 July 2025
+* Submission deadline: 30 May 2025
+* Notification of acceptance: 27 June 2025
+* Camera ready: 28 July 2025 (Hard deadline, bound to ACM publishing procedure)
 * Submission of slides for interpreters' preparation (oral/signed presentations only): 1 September 2025
 * Workshop day: 16 September 2025
 
