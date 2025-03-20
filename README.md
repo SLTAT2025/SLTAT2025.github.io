@@ -16,7 +16,7 @@ See the [SLTAT 2025 Call for Papers](SLTAT2025-CFP.md) for details.
 
 * Submission deadline: 30 May 2025
 * Notification of acceptance: 27 June 2025
-* Camera ready: 28 July 2025 (Hard deadline, bound to ACM publishing procedure)
+* Camera ready: 28 July 2025 (Hard deadline, bound to the ACM publishing procedure)
 * Submission of slides for interpreters' preparation (oral/signed presentations only): 1 September 2025
 * Workshop day: 16 September 2025
 
