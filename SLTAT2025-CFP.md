@@ -46,11 +46,11 @@ We invite papers on the following topics:
 
 The revision process will be double blind (Anonymous authors, anonymous reviewers). So, **anonymize your submissions!**
 
-Papers should contain a complete description of ideas and applicable research results in a **maximum of 4 pages** for technical content including figures and possible references, and with **one additional optional 5th page containing only references**.
+Papers should contain a complete description of ideas and applicable research results in a **between 4 and 8 pages** for technical content including figures and possible references, and with **one additional optional page containing only references**.
 
 Oral/signed presentations and posters (with or without demonstrations) have equal status.
 Authors are encouraged to suggest the presentation format best suited to communicate their ideas, but the final presentation modality will be assigned by the program committee.
 
 ## Publication of Workshop Papers
 
-The accepted workshop papers will be published via ACM as IVA 25 Adjunct Proceedings. Please note that the camera-ready workshop papers will be processed via the IVA 25 EasyChair and should be prepared in the “ACM Standard” format, more specifically the “SigConf” format (see instructions for the IVA full papers: <a href="https://iva.acm.org/2025/call-for-papers/" target="_new">https://iva.acm.org/2025/call-for-papers/</a>
+The accepted workshop papers will be published via ACM as IVA 25 Adjunct Proceedings. Please note that the camera-ready workshop papers will be processed via the IVA 25 EasyChair and should be prepared in the “ACM Standard” format, more specifically the “SigConf” format (see instructions for the IVA full papers: <a href="https://iva.acm.org/2025/call-for-papers/" target="_new">https://iva.acm.org/2025/call-for-papers/</a>)

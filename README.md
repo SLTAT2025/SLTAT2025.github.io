@@ -10,7 +10,7 @@ The accepted workshop papers will be published via ACM as IVA 25 Adjunct Proceed
 
 ## Call for papers
 
-See the [SLTAT 2025 Call for Papers](SLTAT2025-CFP.md) for details.
+See the [SLTAT 2025 Call for Papers](SLTAT2025-CFP.md) for details about content and submissions.
 
 ## Dates
 
