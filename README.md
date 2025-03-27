@@ -20,6 +20,11 @@ See the [SLTAT 2025 Call for Papers](SLTAT2025-CFP.md) for details about content
 * Submission of slides for interpreters' preparation (oral/signed presentations only): 1 September 2025
 * Workshop day: 16 September 2025
 
+## Previous editions
+
+The first SLTAT dates back to 2011.
+See the SLTAT history web page (<a href="http://sltat.cs.depaul.edu" target="_new">http://sltat.cs.depaul.edu</a>) for info on previous editions.
+
 ## Venue
 
 HTW Campus, Berlin, Germany.
