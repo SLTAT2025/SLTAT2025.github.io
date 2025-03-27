@@ -1,3 +1,5 @@
+![SLTAT 2025 logo](sltat2025-logo.png)
+
 # SLTAT 2025: 9th Workshop on Sign Language Translation and Avatar Technologies
 
 Recent research in the use of avatars to animate sign language promises to provide increased accessibility for deaf people. In addition, avatars support sign linguistics research, providing a potential target for translation from spoken and other sign languages, and scan light on human factors of sign language usage.
