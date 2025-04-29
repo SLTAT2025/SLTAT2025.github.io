@@ -70,7 +70,6 @@ Program at glance: TBA
 
 Detailed Program: TBA
 
-
 ## Commitees
 
 Organizing Committee:
@@ -86,6 +85,18 @@ Organizing Committee:
 Media manager:
 
 * Cristina Luna Jiménez, University of Augsburg, Germany
+
+
+## Sponsors
+
+We are looking for sponsors to cover interpretation and travel/accommodation expenses!
+
+Companies are very welcome to express their interest in providing help for the organization.
+
+In exchange, sponsors will have logos and links printed in the workshop web sites, workshop proceedings, and on the official presentations.
+In addition, we offer a space for advertisement during the poster sessions (approximately 2 hours in the morning and 2 in the afternoon), where you can promote your services to the German and the International academic community.
+
+Please, contact us if interested.
 
 
 ## Contacts
