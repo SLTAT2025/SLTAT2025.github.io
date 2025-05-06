@@ -51,6 +51,9 @@ Papers should contain a complete description of ideas and applicable research re
 Oral/signed presentations and posters (with or without demonstrations) have equal status.
 Authors are encouraged to suggest the presentation format best suited to communicate their ideas, but the final presentation modality will be assigned by the program committee.
 
+Submission link: <a href="https://openreview.net/group?id=ACM.org/IVA/2025/Workshop/SLTAT" target="_new">https://openreview.net/group?id=ACM.org/IVA/2025/Workshop/SLTAT</a>
+
+
 ## Publication of Workshop Papers
 
 The accepted workshop papers will be published via ACM as IVA 25 Adjunct Proceedings. Please note that the camera-ready workshop papers will be processed via the IVA 25 EasyChair and should be prepared in the “ACM Standard” format, more specifically the “SigConf” format (see instructions for the IVA full papers: <a href="https://iva.acm.org/2025/call-for-papers/" target="_new">https://iva.acm.org/2025/call-for-papers/</a>)

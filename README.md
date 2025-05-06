@@ -46,7 +46,7 @@ Please see the main IVA 2025 venue information (<a href="https://iva.acm.org/202
 
 ## Instruction for Authors
 
-**Papers** should be prepared in the “ACM Standard” format, more specifically the “SigConf” format (see instructions for the IVA full papers: <a href="https://iva.acm.org/2025/call-for-papers/" target="_new">https://iva.acm.org/2025/call-for-papers/</a>.
+**Papers** should be **prepared** in the “ACM Standard” format, more specifically the “SigConf” format (see instructions for the IVA full papers: <a href="https://iva.acm.org/2025/call-for-papers/" target="_new">https://iva.acm.org/2025/call-for-papers/</a>.
 Accepted papers will be presented as either posters or for oral presentation with an equal value.
 
 
@@ -57,6 +57,10 @@ TBA
 ### Poster Presentations
 
 TBA
+
+## Submitting
+
+**Papers** can be **submitted** through the OpenReview platform at <a href="https://openreview.net/group?id=ACM.org/IVA/2025/Workshop/SLTAT" target="_new">https://openreview.net/group?id=ACM.org/IVA/2025/Workshop/SLTAT</a>
 
 
 ## Registration Fees
