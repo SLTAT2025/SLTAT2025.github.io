@@ -57,11 +57,15 @@ Accepted papers will be presented as either posters or for oral presentation wit
 
 ### Oral/Signed Presentations
 
-TBA
+There will be 2 oral/signed presentation sessions: A (morning) and B (afternoon).
+
+Presentations receive 20 minutes for presentations plus questions (roughly 15 + 5).
+
+Slides should be sent to the organizers (see Contacts below) by Sept, 1st, to allow interpreters for preparation.
 
 ### Poster Presentations
 
-TBA
+Pin boards will be available, each measuring 150x120 cm and suitable for A0 posters in either portrait or landscape orientation.
 
 ## Submitting
 
@@ -71,6 +75,8 @@ TBA
 ## Registration Fees
 
 Our workshop is a full-day workshop.
+
+Check the main IVA conference registration page for details: https://iva.acm.org/2025/registration/
 
 
 ## Program at glance
