@@ -29,7 +29,12 @@ See the SLTAT history web page (<a href="http://sltat.cs.depaul.edu" target="_ne
 
 ## Venue
 
-HTW Campus, Berlin, Germany.
+HTW Campus,
+Wilhelminenhofstraße 75A, 12459,
+Berlin,
+Germany
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9724.904697700742!2d13.507379287158205!3d52.45693119999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a848bc4c146fdd%3A0xcdaef78fbd909c09!2sHochschule%20f%C3%BCr%20Technik%20und%20Wirtschaft%20Berlin%20(HTW%20Berlin)%20-%20Campus%20Wilhelminenhof!5e0!3m2!1sen!2sit!4v1752764239928!5m2!1sen!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Languages
 
@@ -68,11 +73,90 @@ TBA
 Our workshop is a full-day workshop.
 
 
-## Program
+## Program at glance
 
-Program at glance: TBA
 
-Detailed Program: TBA
+<table border="1">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Duration</th>
+      <th>What</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="background-color:rgba(255, 191, 0, 0.5);">8:30</td>
+      <td>0:30</td>
+      <td>Registration and Coffee</td>
+    </tr>
+    <tr>
+      <td style="background-color: rgba(255, 191, 0, 0.5);">9:00</td>
+      <td>0:05</td>
+      <td>Welcome and Introduction</td>
+    </tr>
+    <tr>
+      <td style="background-color: #FF0000;">9:05</td>
+      <td>0:45</td>
+      <td>Keynote Speaker</td>
+    </tr>
+    <tr>
+      <td style="background-color: #FFFF00;">9:50</td>
+      <td>0:40</td>
+      <td>Oral/Signed presentations A1</td>
+    </tr>
+    <tr>
+      <td style="background-color: #00B050;">10:30</td>
+      <td>0:15</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr>
+      <td style="background-color: #FFFF00;">10:45</td>
+      <td>0:20</td>
+      <td>Oral/Signed presentations A2</td>
+    </tr>
+    <tr>
+      <td style="background-color: #92D050;">11:05</td>
+      <td>1:25</td>
+      <td>Poster Session A</td>
+    </tr>
+    <tr>
+      <td style="background-color: #00B050;">12:30</td>
+      <td>1:30</td>
+      <td>Lunch Break</td>
+    </tr>
+    <tr>
+      <td style="background-color: #92D050;">14:00</td>
+      <td>1:30</td>
+      <td>Poster Session B</td>
+    </tr>
+    <tr>
+      <td style="background-color: #00B050;">15:30</td>
+      <td>0:15</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr>
+      <td style="background-color: #FFFF00;">15:45</td>
+      <td>1:00</td>
+      <td>Oral/Signed presentations B</td>
+    </tr>
+    <tr>
+      <td style="background-color: rgba(255, 191, 0, 0.5);">16:45</td>
+      <td>0:30</td>
+      <td>Conclusions and open questions</td>
+    </tr>
+    <tr>
+      <td style="background-color: rgba(255, 191, 0, 0.5);">17:15</td>
+      <td>-:- -</td>
+      <td>End of the event</td>
+    </tr>
+  </tbody>
+</table>
+
+
+## Detailed Program
+
+TBA
 
 ## Commitees
 
