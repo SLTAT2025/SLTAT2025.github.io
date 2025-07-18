@@ -8,7 +8,7 @@ Submissions are invited for a full-day workshop that aims to bring together rese
 
 The workshop will take place within the Intelligent Virtual Agents IVA2025 (<a href="https://iva.acm.org/2025/" target="_new">https://iva.acm.org/2025/</a>) conference at the HTW campus (directly at the river Spree) in Berlin, Germany.
 
-The accepted workshop papers will be published via ACM as IVA 25 Adjunct Proceedings.
+The accepted workshop papers will be published via ACM as IVA2025 Adjunct Proceedings.
 
 ## Call for papers
 
