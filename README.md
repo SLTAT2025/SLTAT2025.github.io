@@ -162,7 +162,7 @@ Check the main IVA conference registration page for details: https://iva.acm.org
 
 ## Detailed Program
 
-TBA
+See the [SLTAT 2025 Detailed Program](SLTAT2025-DetailedProgram.md)
 
 ## Commitees
 
