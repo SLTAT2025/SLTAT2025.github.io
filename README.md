@@ -109,7 +109,7 @@ Check the main IVA conference registration page for details: https://iva.acm.org
     <tr>
       <td style="background-color: #FFFF00;">10:15</td>
       <td>0:15</td>
-      <td>Poster Madness!!!</td>
+      <td>Poster Madness!!! *</td>
     </tr>
     <tr>
       <td style="background-color: #00B050;">10:30</td>
@@ -159,6 +159,7 @@ Check the main IVA conference registration page for details: https://iva.acm.org
   </tbody>
 </table>
 
+* Poster Madness: 1-by-1, every poster author gives a 45 seconds teasing introduction to their work!
 
 ## Accepted papers and sessions detail
 
