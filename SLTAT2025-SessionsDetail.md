@@ -1,19 +1,21 @@
-# SLTAT 2025: Detailed Program
+# SLTAT 2025: Sessions Detail
 
-SLTAT 2025 Home page: <a href="https://sltat2025.github.io">https://sltat2025.github.io</a>
+9th Workshop on Sign Language Translation and Avatar Technologies.
 
-9th Workshop on Sign Language Translation and Avatar Technologies
+List of accepted papers and sessions detail.
 
-Workshop day: 16 September 2025
+See the main SLTAT 2025 Home page <a href="https://sltat2025.github.io">https://sltat2025.github.io</a> for the overall program and other info.
+
+Workshop day: 16 September 2025.
 
 The workshop will take place within the Intelligent Virtual Agents IVA2025 (<a href="https://iva.acm.org/2025/" target="_new">https://iva.acm.org/2025/</a>) conference at the HTW campus (directly at the river Spree) in Berlin, Germany.
 
 
-## Detailed program
+## Session details
 
 <table border=1 cellpadding=1 cellspacing=1>
  <tr>
-  <td></td>
+  <td>Session</td>
   <td>ID</td>
   <td>Title</td>
   <td>Authors</td>
@@ -57,7 +59,7 @@ The workshop will take place within the Intelligent Virtual Agents IVA2025 (<a h
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>Poster Session A</td>
+  <td>Posters A</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
@@ -174,7 +176,7 @@ The workshop will take place within the Intelligent Virtual Agents IVA2025 (<a h
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>Poster Session B</td>
+  <td>Posters B</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>

@@ -98,33 +98,28 @@ Check the main IVA conference registration page for details: https://iva.acm.org
     </tr>
     <tr>
       <td style="background-color: rgba(255, 191, 0, 0.5);">9:00</td>
-      <td>0:05</td>
+      <td>0:15</td>
       <td>Welcome and Introduction</td>
     </tr>
     <tr>
-      <td style="background-color: #FF0000;">9:05</td>
-      <td>0:45</td>
-      <td>Keynote Speaker</td>
+      <td style="background-color: #FFFF00;">9:15</td>
+      <td>1:00</td>
+      <td>Oral/Signed Presentations A</td>
     </tr>
     <tr>
-      <td style="background-color: #FFFF00;">9:50</td>
-      <td>0:40</td>
-      <td>Oral/Signed presentations A1</td>
+      <td style="background-color: #FFFF00;">10:15</td>
+      <td>0:15</td>
+      <td>Poster Madness!!!</td>
     </tr>
     <tr>
       <td style="background-color: #00B050;">10:30</td>
-      <td>0:15</td>
+      <td>0:30</td>
       <td>Coffee Break</td>
     </tr>
     <tr>
-      <td style="background-color: #FFFF00;">10:45</td>
-      <td>0:20</td>
-      <td>Oral/Signed presentations A2</td>
-    </tr>
-    <tr>
-      <td style="background-color: #92D050;">11:05</td>
-      <td>1:25</td>
-      <td>Poster Session A</td>
+      <td style="background-color: #FFFF00;">11:00</td>
+      <td>1:30</td>
+      <td>Posters Session A</td>
     </tr>
     <tr>
       <td style="background-color: #00B050;">12:30</td>
@@ -132,37 +127,42 @@ Check the main IVA conference registration page for details: https://iva.acm.org
       <td>Lunch Break</td>
     </tr>
     <tr>
-      <td style="background-color: #92D050;">14:00</td>
+      <td style="background-color: #FFFF00;">14:00</td>
       <td>1:30</td>
-      <td>Poster Session B</td>
+      <td>Posters Session B</td>
     </tr>
     <tr>
       <td style="background-color: #00B050;">15:30</td>
-      <td>0:15</td>
+      <td>0:30</td>
       <td>Coffee Break</td>
     </tr>
     <tr>
-      <td style="background-color: #FFFF00;">15:45</td>
+      <td style="background-color: #FFFF00;">16:00</td>
       <td>1:00</td>
-      <td>Oral/Signed presentations B</td>
+      <td>Oral/Signed Presentations B</td>
     </tr>
     <tr>
-      <td style="background-color: rgba(255, 191, 0, 0.5);">16:45</td>
+      <td style="background-color: rgba(255, 191, 0, 0.5);">17:00</td>
       <td>0:30</td>
       <td>Conclusions and open questions</td>
     </tr>
     <tr>
-      <td style="background-color: rgba(255, 191, 0, 0.5);">17:15</td>
-      <td>-:- -</td>
-      <td>End of the event</td>
+      <td style="background-color: #00B050;">17:30</td>
+      <td>0:30</td>
+      <td>End of the event - free time</td>
+    </tr>
+    <tr>
+      <td style="background-color: #00B050;">18:00</td>
+      <td>-:--</td>
+      <td>Welcome Reception at HTW</td>
     </tr>
   </tbody>
 </table>
 
 
-## Detailed Program
+## Accepted papers and sessions detail
 
-See the [SLTAT 2025 Detailed Program](SLTAT2025-DetailedProgram.md)
+See the [SLTAT 2025 Sessions Detail](SLTAT2025-SessionsDetail.md) page.
 
 ## Commitees
 
@@ -176,7 +176,7 @@ Organizing Committee:
 * Evita Fotinea, ATHENA RC, Athens, Greece
 * Thomas Hanke, University of Hamburg, Germany
 
-Media manager:
+Organization, Content, and Media manager:
 
 * Cristina Luna Jiménez, University of Augsburg, Germany
 
