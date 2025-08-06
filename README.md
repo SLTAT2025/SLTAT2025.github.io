@@ -119,7 +119,7 @@ Check the main IVA conference registration page for details: <a href="https://iv
     <tr>
       <td style="background-color: #FFFF00;">11:00</td>
       <td>1:30</td>
-      <td>Posters Session A</td>
+      <td>Posters Session A (12x)</td>
     </tr>
     <tr>
       <td style="background-color: #00B050;">12:30</td>
@@ -129,7 +129,7 @@ Check the main IVA conference registration page for details: <a href="https://iv
     <tr>
       <td style="background-color: #FFFF00;">14:00</td>
       <td>1:30</td>
-      <td>Posters Session B (3 x 20 minutes)</td>
+      <td>Posters Session B (12x)</td>
     </tr>
     <tr>
       <td style="background-color: #00B050;">15:30</td>
@@ -139,7 +139,7 @@ Check the main IVA conference registration page for details: <a href="https://iv
     <tr>
       <td style="background-color: #FFFF00;">16:00</td>
       <td>1:00</td>
-      <td>Oral/Signed Presentations B</td>
+      <td>Oral/Signed Presentations B (3 x 20 minutes)</td>
     </tr>
     <tr>
       <td style="background-color: rgba(255, 191, 0, 0.5);">17:00</td>
