@@ -104,7 +104,7 @@ Check the main IVA conference registration page for details: <a href="https://iv
     <tr>
       <td style="background-color: #FFFF00;">9:15</td>
       <td>1:00</td>
-      <td>Oral/Signed Presentations A</td>
+      <td>Oral/Signed Presentations A (3 x 20 minutes)</td>
     </tr>
     <tr>
       <td style="background-color: #FFFF00;">10:15</td>
@@ -129,7 +129,7 @@ Check the main IVA conference registration page for details: <a href="https://iv
     <tr>
       <td style="background-color: #FFFF00;">14:00</td>
       <td>1:30</td>
-      <td>Posters Session B</td>
+      <td>Posters Session B (3 x 20 minutes)</td>
     </tr>
     <tr>
       <td style="background-color: #00B050;">15:30</td>
