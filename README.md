@@ -76,7 +76,7 @@ Pin boards will be available, each measuring 150x120 cm and suitable for A0 post
 
 Our workshop is a full-day workshop.
 
-Check the main IVA conference registration page for details: https://iva.acm.org/2025/registration/
+Check the main IVA conference registration page for details: <a href="https://iva.acm.org/2025/registration/" target="_new">https://iva.acm.org/2025/registration/</a>.
 
 
 ## Program at glance
