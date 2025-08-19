@@ -33,7 +33,7 @@ The workshop will take place within the Intelligent Virtual Agents IVA2025 (<a h
   of the Deaf Community in Large Scale Projects: Overview of SignON and EASIER
   Co-Creation Practices</td>
   <td>Lisa
-  Bianca Lepp</td>
+  Bianca Lepp, Mirella De Sisto, Dimitar Shterionov</td>
  </tr>
  <tr>
   <td></td>
