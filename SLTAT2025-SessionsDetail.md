@@ -284,7 +284,7 @@ The workshop will take place within the Intelligent Virtual Agents IVA2025 (<a h
   SiLCC Sign Language Corpus Collection</td>
   <td>Eleftherios
   Avramidis, Vera Czehmann, Fabian Decker, Lorenz Jufe, Aljoscha Lipski, Yuni
-  Amaloa<span style='mso-spacerun:yes'>     </span>Quintero Villalobos,
+  Amaloa Quintero Villalobos,
   Mengqian Shi, Tae Kwon Rhee, Lennart Stölting, Fabrizio Nunnari, Sebastian
   Möller</td>
  </tr>
