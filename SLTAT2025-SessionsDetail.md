@@ -248,7 +248,7 @@ The workshop will take place within the Intelligent Virtual Agents IVA2025 (<a h
   <td>Preprocessing
   MediaPipe Joint Annotation for Sign Language Similarity Analysis</td>
   <td>Kehina
-  Manseri, Sam Bigeard</td>
+  Manseri, Sam Bigeard, Slim Ouni</td>
  </tr>
  <tr>
   <td></td>
