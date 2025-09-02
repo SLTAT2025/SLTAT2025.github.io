@@ -21,7 +21,7 @@ The workshop will take place within the Intelligent Virtual Agents IVA2025 (<a h
   <td>Authors</td>
  </tr>
  <tr>
-  <td>Oral/Signed Presentations A</td>
+  <td>Oral/Signed Presentations A (9:15-10:15)</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
@@ -59,7 +59,7 @@ The workshop will take place within the Intelligent Virtual Agents IVA2025 (<a h
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>Posters A</td>
+  <td>Posters A (11:00-12:30)</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
@@ -176,7 +176,7 @@ The workshop will take place within the Intelligent Virtual Agents IVA2025 (<a h
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>Posters B</td>
+  <td>Posters B (14:00-15:30)</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
@@ -295,7 +295,7 @@ The workshop will take place within the Intelligent Virtual Agents IVA2025 (<a h
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>Oral/Signed Presentations B</td>
+  <td>Oral/Signed Presentations B (16:00-17:00)</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
