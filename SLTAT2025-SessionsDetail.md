@@ -280,10 +280,9 @@ The workshop will take place within the Intelligent Virtual Agents IVA2025 (<a h
  <tr height=113 style='height:85.0pt'>
   <td height=113 style='height:85.0pt'></td>
   <td align=right>37</td>
-  <td>The
-  SiLCC Sign Language Corpus Collection</td>
+  <td>The TUB Sign Language Corpus Collection</td>
   <td>Eleftherios
-  Avramidis, Vera Czehmann, Fabian Decker, Lorenz Jufe, Aljoscha Lipski, Yuni
+  Avramidis, Vera Czehmann, Fabian Decker, Lorenz Hufe, Aljoscha Lipski, Yuni
   Amaloa Quintero Villalobos,
   Mengqian Shi, Tae Kwon Rhee, Lennart Stölting, Fabrizio Nunnari, Sebastian
   Möller</td>
