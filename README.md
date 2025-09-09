@@ -159,7 +159,7 @@ Check the main IVA conference registration page for details: <a href="https://iv
   </tbody>
 </table>
 
-* Poster Madness: 1-by-1, every poster author gives a 45 seconds teasing introduction to their work!
+* Poster Madness: 1-by-1, every poster author gives a 30 seconds teasing introduction to their work!
 
 ## Accepted papers and sessions detail
 
