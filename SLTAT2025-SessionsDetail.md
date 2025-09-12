@@ -171,6 +171,12 @@ The workshop will take place within the Intelligent Virtual Agents IVA2025 (<a h
  </tr>
  <tr>
   <td></td>
+  <td align=right>G1</td>
+  <td>Comparison of Deep Learning and Statistical Methods in Sign Language Recognition</td>
+  <td>Caner Dogan</td>
+ </tr>
+ <tr>
+  <td></td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
