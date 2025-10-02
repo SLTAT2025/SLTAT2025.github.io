@@ -6,9 +6,15 @@ Recent research in the use of avatars to animate sign language promises to provi
 
 Submissions are invited for a full-day workshop that aims to bring together researchers who work with sign language translation with those who develop sign language avatar technologies.
 
-The workshop will take place within the Intelligent Virtual Agents IVA2025 (<a href="https://iva.acm.org/2025/" target="_new">https://iva.acm.org/2025/</a>) conference at the HTW campus (directly at the river Spree) in Berlin, Germany.
+The workshop took place within the Intelligent Virtual Agents IVA2025 (<a href="https://iva.acm.org/2025/" target="_new">https://iva.acm.org/2025/</a>) conference at the HTW campus (directly at the river Spree) in Berlin, Germany.
 
-The accepted workshop papers will be published via ACM as IVA2025 Adjunct Proceedings.
+The accepted workshop papers are published via ACM as IVA2025 Adjunct Proceedings.
+
+The [SLTAT 2025 Sessions Detail](SLTAT2025-SessionsDetail.md) page contains the list of presented papers and their link to the ACM digital library.
+
+Cite the workshop as:
+
+Nunnari, F., Luna-Jiménez, C., Wolfe, R., McDonald, J., Filhol, M., Efthimiou, E., Fotinea, E., Hanke, T. (2025) “9th International Workshop on Sign Language Translation and Avatar Technology (SLTAT 2025),” in Adjunct Proceedings of the 25th ACM International Conference on Intelligent Virtual Agents. IVA Adjunct ’25: ACM International Conference on Intelligent Virtual Agents, Berlin Germany: ACM, pp. 1–3. Available at: https://doi.org/10.1145/3742886.3759656.
 
 ## Call for papers
 
@@ -20,7 +26,7 @@ See the [SLTAT 2025 Call for Papers](SLTAT2025-CFP.md) for details about content
 * Notification of acceptance: ~~27 June 2025, 7 July 2025~~
 * Camera ready: ~~28 July 2025 (Hard deadline, bound to the ACM publishing procedure)~~
 * Submission of slides for interpreters' preparation (oral/signed presentations only): ~~1 September 2025~~
-* Workshop day: 16 September 2025
+* Workshop day: ~~16 September 2025~~
 
 ## Previous editions
 
@@ -202,4 +208,4 @@ Please, contact us if interested.
 
 ## Contacts
 
-The organizing committee can be reached by email at the following address: team_sltat2025help at dfki.de
+The organizing committee can be reached by email at the following address: ~~team_sltat2025help at dfki.de~~
